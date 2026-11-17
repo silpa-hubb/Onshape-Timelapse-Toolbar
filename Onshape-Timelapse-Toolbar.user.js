@@ -6,6 +6,8 @@
 // @match        https://cad.onshape.com/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/silpa-hubb/Onshape-Timelapse-Toolbar/refs/heads/main/Onshape-Timelapse-Toolbar.user.js
+// @downloadURL  https://raw.githubusercontent.com/silpa-hubb/Onshape-Timelapse-Toolbar/refs/heads/main/Onshape-Timelapse-Toolbar.user.js
 // ==/UserScript==
 
 /*
