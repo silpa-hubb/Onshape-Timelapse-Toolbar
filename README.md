@@ -1,3 +1,4 @@
+![Demo](demo.gif)
 # ⏱ Onshape Timelapse Toolbar
 
 Make a timelapse video of how an Onshape model was built, straight from the document history.
@@ -26,6 +27,7 @@ into a video, GIF or a folder of frames.
 ## Install
 
 **Option A: Tampermonkey (one click every time)**
+**[⬇ Install with Tampermonkey]([https://github.com/YOUR-USERNAME/onshape-timelapse/raw/main/onshape-timelapse.user.js](https://raw.githubusercontent.com/silpa-hubb/Onshape-Timelapse-Toolbar/refs/heads/main/Onshape-Timelapse-Toolbar.user.js))**
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
 2. Open `Onshape-Timelapse-Toolbar.user.js` and install it in Tampermonkey.
 3. A **⏱ Timelapse** button appears in Onshape, at the bottom right.
