@@ -1,4 +1,4 @@
-# ⏱ Onshape Timelapse
+# ⏱ Onshape Timelapse Toolbar
 
 Make a timelapse video of how an Onshape model was built, straight from the document history.
 No screen recording, no API key, nothing to install except (optionally) Tampermonkey.
@@ -27,13 +27,13 @@ into a video, GIF or a folder of frames.
 
 **Option A: Tampermonkey (one click every time)**
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
-2. Open `onshape-timelapse.user.js` and install it in Tampermonkey.
+2. Open `Onshape-Timelapse-Toolbar.user.js` and install it in Tampermonkey.
 3. A **⏱ Timelapse** button appears in Onshape, at the bottom right.
 
 **Option B: no install**
 1. Open a Part Studio or Assembly tab in Onshape.
 2. Press **F12** (Mac: **Cmd + Option + J**) and open the **Console** tab.
-3. Paste the whole `onshape-timelapse.user.js` file and press Enter. (Chrome may ask you to type `allow pasting` first.)
+3. Paste the whole `Onshape-Timelapse-Toolbar.user.js` file and press Enter. (Chrome may ask you to type `allow pasting` first.)
 
 ## Use
 
